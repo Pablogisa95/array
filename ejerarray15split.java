@@ -20,8 +20,15 @@ public class ejerarray15split{
     String[] parts = string.split("-");
     String part1 = parts[0]; 
     String part2 = parts[1];
+    String part3 = parts[2];
+    String part4 = parts[3];
+    String part5 = parts[4];
+    
     System.out.println(part1);
     System.out.println(part2);
+    System.out.println(part3);
+    System.out.println(part4);
+    System.out.println(part5);
     }
     
 }
